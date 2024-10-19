@@ -12,7 +12,7 @@ This plugin simplifies the process of importing and retargeting Mixamo animation
 ## Installation
 
 1. Download or clone this repository.
-2. Copy the `addons/easy_mixamo_animation` folder into your Godot project's `addons` folder.
+2. Copy the `addons/mixamo_animation_retargeter` folder into your Godot project's `addons` folder.
 3. Enable the plugin in Project Settings -> Plugins.
 
 ## Usage
