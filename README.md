@@ -49,3 +49,7 @@ GNU GPLv3
 ## Credits
 
 Developed by Matt Marcin @ RaidTheory
+
+## Disclaimer
+
+This plugin is not affiliated with or endorsed by Mixamo or Adobe. Mixamo and its logo are registered trademarks of Adobe Inc. All rights to Mixamo assets and branding belong to Adobe Inc.
