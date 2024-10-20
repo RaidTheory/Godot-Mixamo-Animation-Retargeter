@@ -2,6 +2,9 @@
 
 This plugin simplifies the process of importing and retargeting Mixamo animations in Godot 4.x projects.
 
+[![YouTube Tutorial]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://raw.githubusercontent.com/RaidTheory/Godot-Mixamo-Animation-Retargeter/main/addons/mixamo_animation_retargeter/images/youtube_thumbnail.png?raw=true))](https://youtu.be/WpSPJ_OKadM)
+
+
 ## Features
 
 - Adds a "Retarget Mixamo Animation" option to the right-click menu for FBX files in the FileSystem dock.
