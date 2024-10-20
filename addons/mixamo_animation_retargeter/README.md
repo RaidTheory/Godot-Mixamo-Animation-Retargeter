@@ -2,7 +2,7 @@
 
 This plugin simplifies the process of importing and retargeting Mixamo animations in Godot 4.x projects.
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/RaidTheory/Godot-Mixamo-Animation-Retargeter/main/addons/mixamo_animation_retargeter/images/youtube_thumbnail.png?raw=true)](https://youtu.be/WpSPJ_OKadM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WpSPJ_OKadM/0.jpg)](https://youtu.be/WpSPJ_OKadM)
 
 
 
